@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Isaac-Hudinni
 - 👀 I’m interested in Data Analysis and Data Engineering, 
 - 🌱 I’m currently learning Database Administration and Management
-- 💞️ I’m looking to collaborate on Data Analytics and Data Engineering Projects using AI
+- 💞️ I’m looking to collaborate on Data Analysis and Data Engineering Projects using AI
 - 📫 You can reach me on [Linkedin](www.linkedin.com/in/isaac-odeh-43768b217)
 
 <!---
